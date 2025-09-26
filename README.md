@@ -21,7 +21,7 @@
 (https://github.com/Olatee16/gender-pay-equality-deloitte/blob/main/equality_class_by_factory.png)
 
 **Top 5 Most Discriminative Roles**  
-![Uploading Top 5 most Discriminative job roles.PNG…]()
+(https://github.com/Olatee16/gender-pay-equality-deloitte/blob/main/Top%205%20most%20Discriminative%20job%20roles.PNG)
 
 
 ---
