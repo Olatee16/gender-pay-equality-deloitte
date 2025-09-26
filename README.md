@@ -18,7 +18,7 @@
 ## 📊 Visualizations
 
 **Equality Class Distribution by Factory**  
-![Equality by Factory](./assets/equality_class_by_factory.png)
+(https://github.com/Olatee16/gender-pay-equality-deloitte/blob/main/equality_class_by_factory.png)
 
 **Top 5 Most Discriminative Roles**  
 ![Uploading Top 5 most Discriminative job roles.PNG…]()
