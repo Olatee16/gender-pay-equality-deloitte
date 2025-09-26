@@ -18,7 +18,7 @@
 ## 📊 Visualizations
 
 **Equality Class Distribution by Factory**  
-(./assets/equality_class_by_factory.png)
+![Equality Class](./assets/equality_class_by_factory.png)
 
 **Top 5 Most Discriminative Roles**  
 ![Discriminative Roles](./assets/top_5_most_discriminative_job_roles.PNG)
